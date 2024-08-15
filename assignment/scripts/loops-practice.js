@@ -50,6 +50,10 @@ let stars = ['Polaris', 'Gacrux', 'Formalhaut', 'Rigel', 'Deneb']
 //   console.log(stars[i])
 // }
 
+// for(let star of stars) {
+//   console.log(star);
+// }
+
 
 // 3. While loops  
 //console.log('---- 3. While loop ----');
